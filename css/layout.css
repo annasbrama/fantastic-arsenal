@@ -103,16 +103,16 @@ h1 {
     color: #999;
 }
 
-.rosterMobile a:hover {
-    color: #f00000;
-    transition: 0.3s;
-}
-
 .rosterMobile li {
     border-bottom: 1px solid #787272;
     margin-top: 1rem;
     padding-bottom: 1.5rem;
     list-style: none;
+}
+
+.rosterMobile a:hover {
+    color: #f00000;
+    transition: 0.3s;
 }
 
 .hamb {
@@ -139,16 +139,15 @@ h1 {
     display: block;
 }
 
-
-.flex {
-    display: flex;
-}
-
 .hamb:hover, .close:hover {
     color: #f00000;
     border-color: #f00000;
     transition: 0.2s;
 }
+.flex {
+    display: flex;
+}
+
 
 /* CARDS */
 
@@ -200,10 +199,9 @@ h1 {
     position: relative;
     box-sizing: border-box;
     color: #72767e;
-    font-family: 'inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 12px;
     font-weight: 700;
-    letter-spacing: 0;
     letter-spacing: 1px;
     line-height: 17px;
     padding-left: 3px;
@@ -212,14 +210,19 @@ h1 {
     bottom: 18%;
 }
 
+#name-jorginho {
+    position: absolute;
+    left: 4%;
+    bottom: 21%;
+}
+
 .name {
     display: block;
     position: relative;
     box-sizing: border-box;
-    font-family: 'inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 30px;
     font-weight: 700;
-    letter-spacing: 0;
     line-height: 35px;
     padding-bottom: 5px;
     padding-left: 2px;
@@ -249,7 +252,7 @@ h1 {
     border-bottom: 3px ridge rgba(255, 0, 0, 0.8);
 }
 
-.img-home{
+.img-home {
     display: flex;
     justify-content: center;
     padding: 20px;

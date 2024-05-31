@@ -21,6 +21,18 @@
         justify-content: center;
     }
 
+    #number-jorginho {
+        position: absolute;
+        right: 12px;
+        top: 66%;
+    }
+
+    #name-jorginho {
+        position: absolute;
+        left: 4%;
+        bottom: 7%;
+    }
+
     .text-home {
         display: block;
         padding: 35px;
