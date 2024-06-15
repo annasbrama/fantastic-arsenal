@@ -1,21 +1,21 @@
 // Menu players
 let url = window.location.href
 
-switch(url) {
-    case'index.html':
+switch (url) {
+  case 'index.html':
     window.location.href = 'goalkeepers.html'
     break;
-    case'goalkeepers.html':
+  case 'goalkeepers.html':
     window.location.href = 'defenders.html'
     break;
-    case'defenders.html':
+  case 'defenders.html':
     window.location.href = 'midfielders.html'
     break;
-    case'midfielders.html':
+  case 'midfielders.html':
     window.location.href = 'forwards.html'
     break;
-    // default:
-    //     window.location.href = 'index.html'
+  // default:
+  //     window.location.href = 'index.html'
 }
 
 //Responsive Menu
@@ -32,3 +32,13 @@ hambButton.addEventListener("click", function () {
 closeButton.addEventListener("click", function () {
   mobileMenu.classList.remove("flex");
 });
+
+//Modal
+
+let hide = document.querySelector('.hide')
+let modal = document.querySelector('#modal')
+
+let toggleModal = () => {
+  modal.classList.toggle('hide')
+}
+
