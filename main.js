@@ -38,7 +38,7 @@ function openModal(player) {
     modalContainer.innerHTML = `
         <div class="card-player-info">
                 <div class="card-photo">
-                    <img src="imgs/cards-info/${player.PhotoModal}.jpg"/>
+                    <img src="imgs/cards-info/${player.PhotoModal}.JPG"/>
                 </div>
                   <div class="card-mobile">
                     <button>X</button>
