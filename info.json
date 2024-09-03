@@ -1,20 +1,5 @@
 [
     {
-        "Number": 1,
-        "FirstName": "Aaron",
-        "Name": "Ramsdale",
-        "Position": "Goalkepper",
-        "Born": "14\/05\/1998 - Stoke-on-Trent\/England",
-        "Foot": "Right",
-        "NationalTeam": "England",
-        "PreviousClubs": "Bournemouth, Chesterfield (loan), AFC Wimbledon (loan), Sheffield United ",
-        "SocialMedia": "x.com/AaronRamsdale98",
-        "PhotoCard": "ramsdale",
-        "PhotoModal": "ramsdale.JPG",
-        "PhotoMobile": "ramsdale",
-        "Flag": "england"
-    },
-    {
         "Number": 22,
         "FirstName": "David",
         "Name": "Raya",
@@ -28,6 +13,21 @@
         "PhotoModal": "raya.JPG",
         "PhotoMobile": "raya",
         "Flag": "spain"
+    },
+    {
+        "Number": 32,
+        "FirstName": "",
+        "Name": "Neto",
+        "Position": "Goalkepper",
+        "Born": "19\/07\/1989 - Minas Gerais\/Brazil",
+        "Foot": "Right",
+        "NationalTeam": "Brazil",
+        "PreviousClubs": "Atlético Paranaense, Florentina, Juventus, Valencia, Barcelona, Bournemouth",
+        "SocialMedia": "instagram.com/netomurara",
+        "PhotoCard": "neto",
+        "PhotoModal": "neto.jpg",
+        "PhotoMobile": "neto",
+        "Flag": "brazil"
     },
     {
         "Number": 2,
@@ -195,19 +195,19 @@
         "Flag": "italy"
     },
     {
-        "Number": 21,
-        "FirstName": "Fábio",
-        "Name": "Vieira",
+        "Number": 23,
+        "FirstName": "Mikel",
+        "Name": "Merino",
         "Position": "Midfielder",
-        "Born": "30\/05\/2000 - Santa Maria da Feira\/Portugal",
+        "Born": "22\/06\/1996 - Pamplona\/Spain",
         "Foot": "Left",
-        "NationalTeam": "Portugal",
-        "PreviousClubs": "Porto, Padroense (loan)",
-        "SocialMedia": "instagram.com/fabiodfvieira",
-        "PhotoCard": "vieira",
-        "PhotoModal": "vieira.jpg",
-        "PhotoMobile": "vieira",
-        "Flag": "portugal"
+        "NationalTeam": "Spain",
+        "PreviousClubs": "Osasuna B, Osasuna, Borussia Dortmund, Newcastle, Real Sociedad",
+        "SocialMedia": "instagram.com/mikelmerino",
+        "PhotoCard": "merino",
+        "PhotoModal": "merino.jpg",
+        "PhotoMobile": "merino",
+        "Flag": "spain"
     },
     {
         "Number": 29,
@@ -285,21 +285,6 @@
         "Flag": "brazil"
     },
     {
-        "Number": 14,
-        "FirstName": "Eddie",
-        "Name": "Nketiah",
-        "Position": "Forward",
-        "Born": "30\/05\/1999 - London\/England",
-        "Foot": "Right",
-        "NationalTeam": "England",
-        "PreviousClubs": "Leeds United (loan)",
-        "SocialMedia": "instagram.com/eddienketiah9",
-        "PhotoCard": "nketiah",
-        "PhotoModal": "nketiah.jpg",
-        "PhotoMobile": "nketiah",
-        "Flag": "england"
-    },
-    {
         "Number": 19,
         "FirstName": "Leandro",
         "Name": "Trossard",
@@ -315,18 +300,18 @@
         "Flag": "belgium"
     },
     {
-        "Number": 24,
-        "FirstName": "Reiss",
-        "Name": "Nelson",
+        "Number": 30,
+        "FirstName": "Raheem",
+        "Name": "Sterling",
         "Position": "Forward",
-        "Born": "10\/12\/1999 - London\/England",
+        "Born": "08\/12\/1994 - Kingston\/Jamaica",
         "Foot": "Right",
         "NationalTeam": "England",
-        "PreviousClubs": "Hoffenheim (loan)",
-        "SocialMedia": "instagram.com/reissnelson",
-        "PhotoCard": "nelson",
-        "PhotoModal": "nelson.JPG",
-        "PhotoMobile": "nelson",
+        "PreviousClubs": "Liverpool, Manchester City, Chelsea",
+        "SocialMedia": "instagram.com/sterling7",
+        "PhotoCard": "sterling",
+        "PhotoModal": "sterling.jpg",
+        "PhotoMobile": "sterling",
         "Flag": "england"
     }
 ]
