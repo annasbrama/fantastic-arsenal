@@ -1,6 +1,6 @@
 [
     {
-        "Number": 22,
+        "Number": 1,
         "FirstName": "David",
         "Name": "Raya",
         "Position": "Goalkepper",
@@ -15,19 +15,19 @@
         "Flag": "spain"
     },
     {
-        "Number": 32,
-        "FirstName": "",
-        "Name": "Neto",
+        "Number": 13,
+        "FirstName": "Kepa",
+        "Name": "Arrizabalaga",
         "Position": "Goalkepper",
-        "Born": "19\/07\/1989 - Minas Gerais\/Brazil",
+        "Born": "03\/10\/1994 - Ondárroa\/Spain",
         "Foot": "Right",
-        "NationalTeam": "Brazil",
-        "PreviousClubs": "Atlético Paranaense, Florentina, Juventus, Valencia, Barcelona, Bournemouth",
-        "SocialMedia": "instagram.com/netomurara",
-        "PhotoCard": "neto",
-        "PhotoModal": "neto.jpg",
-        "PhotoMobile": "neto",
-        "Flag": "brazil"
+        "NationalTeam": "Spain",
+        "PreviousClubs": "Athetic, Chelsea, Real Madrid, Bournemouth",
+        "SocialMedia": "instagram.com/kepaarrizabalaga",
+        "PhotoCard": "kepa",
+        "PhotoModal": "",
+        "PhotoMobile": "",
+        "Flag": "spain"
     },
     {
         "Number": 2,
@@ -43,6 +43,21 @@
         "PhotoModal": "saliba.JPG",
         "PhotoMobile": "saliba",
         "Flag": "france"
+    },
+    {
+        "Number": 3,
+        "FirstName": "Cristhian",
+        "Name": "Mosquera",
+        "Position": "Defender",
+        "Born": "27\/06\/2004 - Alicante\/Spain",
+        "Foot": "Right",
+        "NationalTeam": "Spain",
+        "PreviousClubs": "Valencia",
+        "SocialMedia": "instagram.com/crismosquera4",
+        "PhotoCard": "mosquera",
+        "PhotoModal": "",
+        "PhotoMobile": "",
+        "Flag": "spain"
     },
     {
         "Number": 4,
@@ -120,21 +135,6 @@
         "Flag": "ukraine"
     },
     {
-        "Number": 18,
-        "FirstName": "Takehiro",
-        "Name": "Tomiyasu",
-        "Position": "Defender",
-        "Born": "05\/11\/1998 - Fukuoka\/Japan",
-        "Foot": "Right",
-        "NationalTeam": "Japan",
-        "PreviousClubs": "Avispa Fukuoka, Sint-Truiden, Bologna",
-        "SocialMedia": "instagram.com/tomiyasu.t",
-        "PhotoCard": "tomiyasu",
-        "PhotoModal": "tomiyasu.JPG",
-        "PhotoMobile": "tomiyasu",
-        "Flag": "japan"
-    },
-    {
         "Number": 33,
         "FirstName": "Riccardo",
         "Name": "Calafiori",
@@ -144,25 +144,25 @@
         "NationalTeam": "Italy",
         "PreviousClubs": "Roma, Genoa (loan), Basel, Bologna",
         "SocialMedia": "instagram.com/richycala",
-        "PhotoCard": "calafiori",
+        "PhotoCard": "calateste",
         "PhotoModal": "calafiori.JPG",
         "PhotoMobile": "calafiori",
         "Flag": "italy"
     },
     {
-        "Number": 5,
-        "FirstName": " ",
-        "Name": "Thomas",
-        "Position": "Midfielder",
-        "Born": "13\/06\/1993 - Krobo Odumase\/Ghana",
-        "Foot": "Right",
-        "NationalTeam": "Ghana",
-        "PreviousClubs": "Atlético Madrid, Mallorca(loan), Almería(loan)",
-        "SocialMedia": "instagram.com/thomaspartey5",
-        "PhotoCard": "thomas",
-        "PhotoModal": "thomas.JPG",
-        "PhotoMobile": "thomas",
-        "Flag": "ghana"
+        "Number": 49,
+        "FirstName": "Myles",
+        "Name": "Lewis-Skelly",
+        "Position": "Defender",
+        "Born": "26\/09\/2006 - Denmark Hill\/England",
+        "Foot": "Left",
+        "NationalTeam": "England",
+        "PreviousClubs": "",
+        "SocialMedia": "instagram.com/myleslewisskelly",
+        "PhotoCard": "mls",
+        "PhotoModal": "",
+        "PhotoMobile": "",
+        "Flag": "england"
     },
     {
         "Number": 8,
@@ -179,20 +179,20 @@
         "PhotoMobile": "odegaard",
         "Flag": "norway"
     },
-    {
-        "Number": 20,
-        "FirstName": "",
-        "Name": "Jorginho",
+       {
+        "Number": 22,
+        "FirstName": "Ethan",
+        "Name": "Nwaneri",
         "Position": "Midfielder",
-        "Born": "20\/12\/1991 - Imbituba\/Brazil",
-        "Foot": "Right",
-        "NationalTeam": "Italy",
-        "PreviousClubs": "Hellas Verona, Sambonifacese (loan), Napoli, Chelsea",
-        "SocialMedia": "instagram.com/jorginhomfrello",
-        "PhotoCard": "jorginho",
-        "PhotoModal": "jorginho.JPG",
-        "PhotoMobile": "jorginho",
-        "Flag": "italy"
+        "Born": "21\/03\/2007 - London\/England",
+        "Foot": "Left",
+        "NationalTeam": "England",
+        "PreviousClubs": "",
+        "SocialMedia": "instagram.com/enthannwaneri",
+        "PhotoCard": "nwaneri",
+        "PhotoModal": "",
+        "PhotoMobile": "",
+        "Flag": "england"
     },
     {
         "Number": 23,
@@ -223,6 +223,21 @@
         "PhotoModal": "havertz.jpg",
         "PhotoMobile": "havertz",
         "Flag": "germany"
+    },
+    {
+        "Number": 36,
+        "FirstName": "Martin",
+        "Name": "Zubimendi",
+        "Position": "Midfielder",
+        "Born": "02\/02\/1999 - San Sebastián\/Spain",
+        "Foot": "Right",
+        "NationalTeam": "Spain",
+        "PreviousClubs": "Real Sociedad",
+        "SocialMedia": "instagram.com/martin_zubimendi",
+        "PhotoCard": "zubimendi",
+        "PhotoModal": "",
+        "PhotoMobile": "",
+        "Flag": "spain"
     },
     {
         "Number": 41,
@@ -300,18 +315,18 @@
         "Flag": "belgium"
     },
     {
-        "Number": 30,
-        "FirstName": "Raheem",
-        "Name": "Sterling",
+        "Number": 20,
+        "FirstName": "Noni",
+        "Name": "Madueke",
         "Position": "Forward",
-        "Born": "08\/12\/1994 - Kingston\/Jamaica",
-        "Foot": "Right",
+        "Born": "10\/03\/2002 - Barnet\/England",
+        "Foot": "Left",
         "NationalTeam": "England",
-        "PreviousClubs": "Liverpool, Manchester City, Chelsea",
-        "SocialMedia": "instagram.com/sterling7",
-        "PhotoCard": "sterling",
-        "PhotoModal": "sterling.jpg",
-        "PhotoMobile": "sterling",
+        "PreviousClubs": "PSV, Chelsea",
+        "SocialMedia": "instagram.com/nonzinoo10",
+        "PhotoCard": "madueke",
+        "PhotoModal": "",
+        "PhotoMobile": "",
         "Flag": "england"
     }
 ]
