@@ -314,6 +314,21 @@
         "Flag": "brazil"
     },
     {
+        "Number": 14,
+        "FirstName": "Viktor",
+        "Name": "Gyökeres",
+        "Position": "Forward",
+        "Born": "04\/06\/1998 - Stockholm\/Sweden",
+        "Foot": "Right",
+        "NationalTeam": "Sweden",
+        "PreviousClubs": "IF Brommapoljkarna, Brighton & Hove Albion, St. Pauli(loan), Swansea City(loan), Coventry City, Sporting CP",
+        "SocialMedia": "instagram.com/viktorgyokeres",
+        "PhotoCard": "gyokeres",
+        "PhotoModal": "gyokeres.jpg",
+        "PhotoMobile": "gyokeres",
+        "Flag": "sweden"
+    },
+    {
         "Number": 19,
         "FirstName": "Leandro",
         "Name": "Trossard",
