@@ -9,7 +9,7 @@
         "PreviousClubs": "Blackburn, Southport FC (loan), Brentford",
         "SocialMedia": "x.com/daviidraya1",
         "PhotoCard": "raya",
-        "PhotoModal": "raya.JPG",
+        "PhotoModal": "raya.jpg",
         "PhotoMobile": "raya",
         "Flag": "spain"
     },
@@ -24,7 +24,7 @@
         "PreviousClubs": "Athetic, Chelsea, Real Madrid, Bournemouth",
         "SocialMedia": "instagram.com/kepaarrizabalaga",
         "PhotoCard": "kepa",
-        "PhotoModal": "",
+        "PhotoModal": "kepa.jpg",
         "PhotoMobile": "",
         "Flag": "spain"
     },
@@ -39,7 +39,7 @@
         "PreviousClubs": "Saint-Etienne, Nice (loan), Olympique Marseille (loan)",
         "SocialMedia": "instagram.com/w.saliba4",
         "PhotoCard": "saliba",
-        "PhotoModal": "saliba.JPG",
+        "PhotoModal": "saliba.jpg",
         "PhotoMobile": "saliba",
         "Flag": "france"
     },
@@ -54,7 +54,7 @@
         "PreviousClubs": "Valencia",
         "SocialMedia": "instagram.com/crismosquera4",
         "PhotoCard": "mosquera",
-        "PhotoModal": "",
+        "PhotoModal": "mosquera.jpg",
         "PhotoMobile": "",
         "Flag": "spain"
     },
@@ -69,7 +69,7 @@
         "PreviousClubs": "Brighton and Hove Albion, Newport County (loan), Peterborough United (loan), Leeds United (loan)",
         "SocialMedia": "instagram.com/benwhite",
         "PhotoCard": "white",
-        "PhotoModal": "white.JPG",
+        "PhotoModal": "white.jpg",
         "PhotoMobile": "white",
         "Flag": "england"
     },
@@ -84,7 +84,7 @@
         "PreviousClubs": "Avai, Lille, Troyes (loan), Dinamo Zagreb (loan)",
         "SocialMedia": "instagram.com/_gabrielmagalhaes",
         "PhotoCard": "gabriel",
-        "PhotoModal": "gabriel.JPG",
+        "PhotoModal": "gabriel.jpg",
         "PhotoMobile": "gabriel",
         "Flag": "brazil"
     },
@@ -99,7 +99,7 @@
         "PreviousClubs": "Ajax",
         "SocialMedia": "instagram.com/jurrientimber",
         "PhotoCard": "timber",
-        "PhotoModal": "timber.JPG",
+        "PhotoModal": "timber.jpg",
         "PhotoMobile": "timber",
         "Flag": "netherlands"
     },
@@ -143,8 +143,8 @@
         "NationalTeam": "Italy",
         "PreviousClubs": "Roma, Genoa (loan), Basel, Bologna",
         "SocialMedia": "instagram.com/richycala",
-        "PhotoCard": "calateste",
-        "PhotoModal": "calafiori.JPG",
+        "PhotoCard": "calafiori",
+        "PhotoModal": "calafiori.jpg",
         "PhotoMobile": "calafiori",
         "Flag": "italy"
     },
@@ -159,7 +159,7 @@
         "PreviousClubs": "",
         "SocialMedia": "instagram.com/myleslewisskelly",
         "PhotoCard": "mls",
-        "PhotoModal": "",
+        "PhotoModal": "mls.jpg",
         "PhotoMobile": "",
         "Flag": "england"
     },
@@ -174,7 +174,7 @@
         "PreviousClubs": "Stromgodset, Real Madrid, Heerenveen (loan), Vitesse (loan), Real Sociedad (loan)",
         "SocialMedia": "instagram.com/odegaard.98",
         "PhotoCard": "odegaard",
-        "PhotoModal": "odegaard.JPG",
+        "PhotoModal": "odegaard.jpg",
         "PhotoMobile": "odegaard",
         "Flag": "norway"
     },
@@ -184,12 +184,12 @@
         "Name": "Nørgaard",
         "Position": "Midfielder",
         "Born": "10\/03\/1994 - Copenhagen\/Denmark",
-        "Foot": "Eight",
+        "Foot": "Right",
         "NationalTeam": "Denmark",
         "PreviousClubs": "Lyngby, Hamburger SV II, Hamburger SV, Brøndby, Fiorentina, Brentford",
         "SocialMedia": "instagram.com/cnoergaard19",
         "PhotoCard": "norgaard",
-        "PhotoModal": "",
+        "PhotoModal": "norgaard.jpg",
         "PhotoMobile": "",
         "Flag": "denmark"
     },
@@ -204,7 +204,7 @@
         "PreviousClubs": "",
         "SocialMedia": "instagram.com/enthannwaneri",
         "PhotoCard": "nwaneri",
-        "PhotoModal": "",
+        "PhotoModal": "nwaneri.jpg",
         "PhotoMobile": "",
         "Flag": "england"
     },
@@ -249,7 +249,7 @@
         "PreviousClubs": "Real Sociedad",
         "SocialMedia": "instagram.com/martin_zubimendi",
         "PhotoCard": "zubimendi",
-        "PhotoModal": "",
+        "PhotoModal": "zubimendi.jpg",
         "PhotoMobile": "",
         "Flag": "spain"
     },
@@ -279,7 +279,7 @@
         "PreviousClubs": " ",
         "SocialMedia": "instagram.com/bukayosaka87",
         "PhotoCard": "saka",
-        "PhotoModal": "saka.JPG",
+        "PhotoModal": "saka.jpg",
         "PhotoMobile": "saka",
         "Flag": "england"
     },
@@ -309,7 +309,7 @@
         "PreviousClubs": "Ituano",
         "SocialMedia": "instagram.com/gabriel.martinelli",
         "PhotoCard": "martinelli",
-        "PhotoModal": "martinelli.JPG",
+        "PhotoModal": "martinelli.jpg",
         "PhotoMobile": "martinelli",
         "Flag": "brazil"
     },
@@ -324,7 +324,7 @@
         "PreviousClubs": "Genk, Lommel United (loan), Westerlo (loan), Lommel United (loan), OH Leuven (loan), Brighton & Hove Albion",
         "SocialMedia": "instagram.com/leandrotrossard",
         "PhotoCard": "trossard",
-        "PhotoModal": "trossard.JPG",
+        "PhotoModal": "trossard.jpg",
         "PhotoMobile": "trossard",
         "Flag": "belgium"
     },
@@ -339,7 +339,7 @@
         "PreviousClubs": "PSV, Chelsea",
         "SocialMedia": "instagram.com/nonzinoo10",
         "PhotoCard": "madueke",
-        "PhotoModal": "",
+        "PhotoModal": "madueke.jpg",
         "PhotoMobile": "",
         "Flag": "england"
     }
