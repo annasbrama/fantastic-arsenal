@@ -1,5 +1,4 @@
-[
-    {
+[{
         "Number": 1,
         "FirstName": "David",
         "Name": "Raya",
@@ -179,7 +178,22 @@
         "PhotoMobile": "odegaard",
         "Flag": "norway"
     },
-       {
+    {
+        "Number": 16,
+        "FirstName": "Christian",
+        "Name": "Nørgaard",
+        "Position": "Midfielder",
+        "Born": "10\/03\/1994 - Copenhagen\/Denmark",
+        "Foot": "Eight",
+        "NationalTeam": "Denmark",
+        "PreviousClubs": "Lyngby, Hamburger SV II, Hamburger SV, Brøndby, Fiorentina, Brentford",
+        "SocialMedia": "instagram.com/cnoergaard19",
+        "PhotoCard": "norgaard",
+        "PhotoModal": "",
+        "PhotoMobile": "",
+        "Flag": "denmark"
+    },
+    {
         "Number": 22,
         "FirstName": "Ethan",
         "Name": "Nwaneri",
