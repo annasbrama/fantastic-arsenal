@@ -21,11 +21,11 @@
         "Born": "03\/10\/1994 - Ondárroa\/Spain",
         "Foot": "Right",
         "NationalTeam": "Spain",
-        "PreviousClubs": "Athetic, Chelsea, Real Madrid, Bournemouth",
+        "PreviousClubs": "Athletic Club, Chelsea, Real Madrid, Bournemouth",
         "SocialMedia": "instagram.com/kepaarrizabalaga",
         "PhotoCard": "kepa",
         "PhotoModal": "kepa.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "kepa",
         "Flag": "spain"
     },
     {
@@ -55,7 +55,7 @@
         "SocialMedia": "instagram.com/crismosquera4",
         "PhotoCard": "mosquera",
         "PhotoModal": "mosquera.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "mosquera",
         "Flag": "spain"
     },
     {
@@ -160,7 +160,7 @@
         "SocialMedia": "instagram.com/myleslewisskelly",
         "PhotoCard": "mls",
         "PhotoModal": "mls.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "mls",
         "Flag": "england"
     },
     {
@@ -190,7 +190,7 @@
         "SocialMedia": "instagram.com/cnoergaard19",
         "PhotoCard": "norgaard",
         "PhotoModal": "norgaard.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "norgaard",
         "Flag": "denmark"
     },
     {
@@ -205,7 +205,7 @@
         "SocialMedia": "instagram.com/enthannwaneri",
         "PhotoCard": "nwaneri",
         "PhotoModal": "nwaneri.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "nwaneri",
         "Flag": "england"
     },
     {
@@ -250,7 +250,7 @@
         "SocialMedia": "instagram.com/martin_zubimendi",
         "PhotoCard": "zubimendi",
         "PhotoModal": "zubimendi.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "zubimendi",
         "Flag": "spain"
     },
     {
@@ -340,7 +340,7 @@
         "SocialMedia": "instagram.com/nonzinoo10",
         "PhotoCard": "madueke",
         "PhotoModal": "madueke.jpg",
-        "PhotoMobile": "",
+        "PhotoMobile": "madueke",
         "Flag": "england"
     }
 ]
