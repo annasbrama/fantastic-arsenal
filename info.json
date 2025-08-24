@@ -224,21 +224,6 @@
         "Flag": "spain"
     },
     {
-        "Number": 29,
-        "FirstName": "Kai",
-        "Name": "Havertz",
-        "Position": "Midfielder",
-        "Born": "11\/09\/1999 - Aachen\/Germany",
-        "Foot": "Left",
-        "NationalTeam": "Germany",
-        "PreviousClubs": "Bayer Leverkusen, Chelsea",
-        "SocialMedia": "instagram.com/kaihavertz29",
-        "PhotoCard": "havertz",
-        "PhotoModal": "havertz.jpg",
-        "PhotoMobile": "havertz",
-        "Flag": "germany"
-    },
-    {
         "Number": 36,
         "FirstName": "Martin",
         "Name": "Zubimendi",
@@ -299,6 +284,21 @@
         "Flag": "brazil"
     },
     {
+        "Number": 10,
+        "FirstName": "Eberechi",
+        "Name": "Eze",
+        "Position": "Forward",
+        "Born": "29\/06\/1998 - Greenwich\/England",
+        "Foot": "Right",
+        "NationalTeam": "England",
+        "PreviousClubs": "Queens Park Rangers, Wycombe (loan), Crystal Palace",
+        "SocialMedia": "instagram.com/eze",
+        "PhotoCard": "eze",
+        "PhotoModal": "eze.jpg",
+        "PhotoMobile": "eze",
+        "Flag": "england"
+    },
+    {
         "Number": 11,
         "FirstName": "Gabriel",
         "Name": "Martinelli",
@@ -357,5 +357,20 @@
         "PhotoModal": "madueke.jpg",
         "PhotoMobile": "madueke",
         "Flag": "england"
+    },
+    {
+        "Number": 29,
+        "FirstName": "Kai",
+        "Name": "Havertz",
+        "Position": "Midfielder",
+        "Born": "11\/09\/1999 - Aachen\/Germany",
+        "Foot": "Left",
+        "NationalTeam": "Germany",
+        "PreviousClubs": "Bayer Leverkusen, Chelsea",
+        "SocialMedia": "instagram.com/kaihavertz29",
+        "PhotoCard": "havertz",
+        "PhotoModal": "havertz.jpg",
+        "PhotoMobile": "havertz",
+        "Flag": "germany"
     }
 ]
