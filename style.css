@@ -158,7 +158,7 @@ nav {
     justify-content: center;
     flex: 1 1 500px;
     flex-wrap: nowrap;
-    gap: 2px;
+    gap: 80px;
     padding-top: 50px;
 }
 
