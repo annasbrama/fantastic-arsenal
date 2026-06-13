@@ -64,7 +64,7 @@ main {
   margin-bottom: 50px;
 }
 
-.card {
+article {
   text-align: center;
   position: relative;
   height: 390px;
@@ -72,7 +72,7 @@ main {
   border-radius: 10px;
 }
 
-.portrait {
+figure {
   backdrop-filter: blur(5px);
   background-image: url(./imgs/bg.svg),
     radial-gradient(circle at 10% 20%, rgb(221, 49, 49) 0%, rgb(119, 0, 0) 90%);
@@ -83,11 +83,11 @@ main {
   height: 300px;
 }
 
-.portrait img {
+figure img {
   height: 300px;
 }
 
-.portrait::before {
+figure::before {
   content: "";
   position: absolute;
   top: -1px;
@@ -99,7 +99,7 @@ main {
   transition: opacity 0.3s ease-in-out;
 }
 
-.portrait:hover::before {
+figure:hover::before {
   background: rgba(231, 10, 10, 0.3);
   opacity: 0.7;
 }
@@ -262,7 +262,6 @@ button {
 .media {
   display: flex;
   font-size: 1.15rem;
-  font-weight: 800;
   color: var(--color-text-primary);
   margin-inline: 2rem;
   letter-spacing: 0.8px;
