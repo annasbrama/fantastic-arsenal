@@ -2,20 +2,20 @@
 
 let cards = document.querySelector('main');
 
-fetch('info.json')
+fetch('data/info.json')
     .then(resposta => resposta.json())
     .then(dados => dados.forEach((player, index) => {
         let card = document.createElement('article');
         cards.appendChild(card);
         card.innerHTML = `
       <figure>
-        <img src="imgs/cards-front/${player.PhotoCard}.png" alt="Foto de ${player.FirstName} ${player.Name}"/>
+        <img src="images/cards-front/${player.PhotoCard}.png" alt="Foto de ${player.FirstName} ${player.Name}"/>
       </figure>
       <span class="number-home">${player.Number}</span>
       <h2 class="first-name-home">${player.FirstName}</h2>
       <h3 class="name-home">${player.Name}</h3>
       <div class="flag-home">
-        <img src="imgs/flags/${player.Flag}.png">
+        <img src="images/flags/${player.Flag}.png">
         <p>${player.NationalTeam}</p>
       </div>
     `;
@@ -37,11 +37,11 @@ function openModal(player) {
     modalContainer.innerHTML = `
         <div class="card-player-info">
                 <div class="card-photo">
-                    <img src="imgs/cards-info/${player.PhotoModal}" alt="Foto de ${player.FirstName} ${player.Name}"/>
+                    <img src="images/cards-info/${player.PhotoModal}" alt="Foto de ${player.FirstName} ${player.Name}"/>
                 </div>
                   <div class="card-mobile">
                     <button>X</button>
-                    <img src="imgs/cards-mobile/${player.PhotoMobile}.jpg"/>
+                    <img src="images/cards-mobile/${player.PhotoMobile}.jpg"/>
                     </div>
                 <div class="card-profile">
                     <h2 class="box-title">Player Profile</h2>
