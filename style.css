@@ -26,11 +26,11 @@ html {
   );
 }
 
-nav {
+header {
   background-color: var(--arsenal-red);
 }
 
-.logo {
+nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -38,13 +38,13 @@ nav {
   padding: 10px;
 }
 
-.logo img {
+nav img {
   margin: 10px;
   max-width: 100%;
   width: 150px;
 }
 
-.logo h1 {
+nav h1 {
   margin: 10px;
   color: #f4fff4;
   font-size: 2rem;
@@ -52,7 +52,7 @@ nav {
 }
 
 /* CARDS HOME */
-.cards {
+main {
   max-width: 1280px;
   margin-inline: auto;
   display: flex;

@@ -1,6 +1,6 @@
 //CRIAÇÃO DOS CARDS
 
-let cards = document.querySelector('.cards');
+let cards = document.querySelector('main');
 
 fetch('info.json')
     .then(resposta => resposta.json())
