@@ -12,7 +12,7 @@
         "PhotoCard": "raya",
         "PhotoModal": "raya.jpg",
         "PhotoMobile": "raya",
-        "Flag": "spain"
+        "Flag": "Spain"
     },
     {
         "Number": 13,
@@ -27,7 +27,7 @@
         "PhotoCard": "kepa",
         "PhotoModal": "kepa.jpg",
         "PhotoMobile": "kepa",
-        "Flag": "spain"
+        "Flag": "Spain"
     },
     {
         "Number": 2,
@@ -42,7 +42,7 @@
         "PhotoCard": "saliba",
         "PhotoModal": "saliba.jpg",
         "PhotoMobile": "saliba",
-        "Flag": "france"
+        "Flag": "France"
     },
     {
         "Number": 3,
@@ -57,7 +57,7 @@
         "PhotoCard": "mosquera",
         "PhotoModal": "mosquera.jpg",
         "PhotoMobile": "mosquera",
-        "Flag": "spain"
+        "Flag": "Spain"
     },
     {
         "Number": 4,
@@ -72,7 +72,7 @@
         "PhotoCard": "white",
         "PhotoModal": "white.jpg",
         "PhotoMobile": "white",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 5,
@@ -87,7 +87,7 @@
         "PhotoCard": "hincapie",
         "PhotoModal": "hincapie.jpg",
         "PhotoMobile": "hincapie",
-        "Flag": "ecuador"
+        "Flag": "Ecuador"
     },
     {
         "Number": 6,
@@ -102,7 +102,7 @@
         "PhotoCard": "gabriel",
         "PhotoModal": "gabriel.jpg",
         "PhotoMobile": "gabriel",
-        "Flag": "brazil"
+        "Flag": "Brazil"
     },
     {
         "Number": 12,
@@ -117,7 +117,7 @@
         "PhotoCard": "timber",
         "PhotoModal": "timber.jpg",
         "PhotoMobile": "timber",
-        "Flag": "netherlands"
+        "Flag": "Netherlands"
     },
     {
         "Number": 33,
@@ -132,7 +132,7 @@
         "PhotoCard": "calafiori",
         "PhotoModal": "calafiori.jpg",
         "PhotoMobile": "calafiori",
-        "Flag": "italy"
+        "Flag": "Italy"
     },
     {
         "Number": 49,
@@ -147,7 +147,7 @@
         "PhotoCard": "mls",
         "PhotoModal": "mls.jpg",
         "PhotoMobile": "mls",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 8,
@@ -162,7 +162,7 @@
         "PhotoCard": "odegaard",
         "PhotoModal": "odegaard.jpg",
         "PhotoMobile": "odegaard",
-        "Flag": "norway"
+        "Flag": "Netherlands"
     },
     {
         "Number": 16,
@@ -177,7 +177,7 @@
         "PhotoCard": "norgaard",
         "PhotoModal": "norgaard.jpg",
         "PhotoMobile": "norgaard",
-        "Flag": "denmark"
+        "Flag": "Denmark"
     },
     {
         "Number": 22,
@@ -192,7 +192,7 @@
         "PhotoCard": "nwaneri",
         "PhotoModal": "nwaneri.jpg",
         "PhotoMobile": "nwaneri",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 23,
@@ -207,7 +207,7 @@
         "PhotoCard": "merino",
         "PhotoModal": "merino.jpg",
         "PhotoMobile": "merino",
-        "Flag": "spain"
+        "Flag": "Spain"
     },
     {
         "Number": 36,
@@ -222,7 +222,7 @@
         "PhotoCard": "zubimendi",
         "PhotoModal": "zubimendi.jpg",
         "PhotoMobile": "zubimendi",
-        "Flag": "spain"
+        "Flag": "Spain"
     },
     {
         "Number": 41,
@@ -237,7 +237,7 @@
         "PhotoCard": "rice",
         "PhotoModal": "rice.jpg",
         "PhotoMobile": "rice",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 7,
@@ -252,7 +252,7 @@
         "PhotoCard": "saka",
         "PhotoModal": "saka.jpg",
         "PhotoMobile": "saka",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 9,
@@ -267,7 +267,7 @@
         "PhotoCard": "jesus",
         "PhotoModal": "jesus.jpg",
         "PhotoMobile": "jesus",
-        "Flag": "brazil"
+        "Flag": "Brazil"
     },
     {
         "Number": 10,
@@ -282,7 +282,7 @@
         "PhotoCard": "eze",
         "PhotoModal": "eze.jpg",
         "PhotoMobile": "eze",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 11,
@@ -297,7 +297,7 @@
         "PhotoCard": "martinelli",
         "PhotoModal": "martinelli.jpg",
         "PhotoMobile": "martinelli",
-        "Flag": "brazil"
+        "Flag": "Brazil"
     },
     {
         "Number": 14,
@@ -312,7 +312,7 @@
         "PhotoCard": "gyokeres",
         "PhotoModal": "gyokeres.jpg",
         "PhotoMobile": "gyokeres",
-        "Flag": "sweden"
+        "Flag": "Sweden"
     },
     {
         "Number": 19,
@@ -327,7 +327,7 @@
         "PhotoCard": "trossard",
         "PhotoModal": "trossard.jpg",
         "PhotoMobile": "trossard",
-        "Flag": "belgium"
+        "Flag": "Belgium"
     },
     {
         "Number": 20,
@@ -342,7 +342,7 @@
         "PhotoCard": "madueke",
         "PhotoModal": "madueke.jpg",
         "PhotoMobile": "madueke",
-        "Flag": "england"
+        "Flag": "England"
     },
     {
         "Number": 29,
@@ -357,6 +357,6 @@
         "PhotoCard": "havertz",
         "PhotoModal": "havertz.jpg",
         "PhotoMobile": "havertz",
-        "Flag": "germany"
+        "Flag": "Germany"
     }
 ]
